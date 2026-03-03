@@ -1,7 +1,7 @@
-#NOTE: due to personal details and api keys, i can't be able to share my code here but i have fully functional code in my system!
+**NOTE:** due to personal details and api keys, i can't be able to share my code here but i have fully functional code in my system!
 
-#Autonomous AI Sales Agent with RAG Memory
-Python, LangGraph, LangChain, FAISS, PostgreSQL, Gmail API, Cohere/Gemini
+**Autonomous AI Sales Agent with RAG Memory**
+*Python, LangGraph, LangChain, FAISS, PostgreSQL, Gmail API, Cohere/Gemini*
 2026 | Personal SaaS System
 
 Designed and implemented a multi-stage AI sales agent that processes call transcripts, analyzes customer intent, and autonomously decides follow-up actions using structured LLM outputs.
